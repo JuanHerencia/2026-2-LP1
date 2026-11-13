@@ -1,0 +1,2 @@
+Tarea corregir los errores y hacerlo funcionar
+Implementar la rotación de valores si rama se desbalancea
